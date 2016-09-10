@@ -1,0 +1,19 @@
+ 
+.hr_25 li
+{
+	width:970px;
+	margin: 0 auto;
+	padding: 5px;
+}
+
+.footer
+{
+	width:970px;
+	margin: 0 auto;
+	padding: 5px;
+    font-size: 12px;
+    font-weight: bold;
+    list-style: none;
+    border-bottom: 8px solid #DC4E1B;
+    overflow: auto;
+}
